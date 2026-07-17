@@ -18,6 +18,10 @@ function Navbar() {
         
         <Link to="/cart">Cart</Link>
 
+        <Link to="/address">Address</Link>
+
+        <Link to="/orders">Orders</Link>
+
 
       
 
